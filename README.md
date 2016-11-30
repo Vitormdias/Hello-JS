@@ -2,6 +2,8 @@
 NodeSchool Solutions
 
 
-LearnYouNode :white_check_mark:
+LearnYouNode :on:
 
-MakeMeHapi :white_check_mark:
+MakeMeHapi :on:
+
+LearnYouMongo :soon:
