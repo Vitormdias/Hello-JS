@@ -2,8 +2,22 @@
 NodeSchool Solutions
 
 
-LearnYouNode :on:
+LearnYouNode :heavy_check_mark:
 
-MakeMeHapi :on:
+MakeMeHapi :heavy_check_mark:
 
-LearnYouMongo :soon:
+LearnYouMongo :on:
+
+StreamAdventure :soon:
+
+PromiseItWontHurt :soon:
+
+AsynYou :soon:
+
+CountTo6 :soon:
+
+KickOffKoa :soon:
+
+TowerOfBabel :soon:
+
+LearnYouReact :soon:
