@@ -1,27 +1,24 @@
-const MongoClient = require('mongodb').MongoClient;
+'use strict';
 
+const mongo = require('mongodb').MongoClient;
 const url = 'mongodb://localhost:27017/learnyoumongo';
 
-const firstName = process.argv[2] , lastName = process.argv[3];
+mongo.connect(url, function(err, db) {
+  if(err)
+    throw err;
+  let collection = db.collection('docs');
 
-const doc = {
-    firstName: firstName,
-    lastName: lastName
-}
+  const doc = {
+    firstName: process.argv[2],
+    lastName: process.argv[3]
+  };
 
-MongoClient.connect(url , function(err,db) {
-    if (err)
-        throw err;
+  collection.insert(doc, function(err, data) {
+    if(err)
+      throw err;
 
-    let collection = db.collection('docs');
+    console.log(JSON.stringify(doc));
 
-    collection.insert(doc, function (err , data) {
-        if (err)
-            throw err;
-
-        console.log(JSON.stringfy(doc));
-
-        db.close();
-    })
-
+    db.close();
+  });
 });
