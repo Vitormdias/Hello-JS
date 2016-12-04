@@ -9,7 +9,7 @@ mongo.connect(url, function(err, db) {
   if(err)
     throw err;
 
-  let collection = db.collection('parrots');
+  const collection = db.collection('parrots');
 
   collection.count({
       age: {
