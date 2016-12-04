@@ -6,7 +6,7 @@ LearnYouNode :heavy_check_mark:
 
 MakeMeHapi :heavy_check_mark:
 
-LearnYouMongo :on:
+LearnYouMongo :heavy_check_mark:
 
 StreamAdventure :soon:
 
