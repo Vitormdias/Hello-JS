@@ -6,6 +6,7 @@ const url = 'mongodb://localhost:27017/learnyoumongo';
 mongo.connect(url, function(err, db) {
   if(err)
     throw err;
+
   let collection = db.collection('docs');
 
   const doc = {

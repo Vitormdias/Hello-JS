@@ -12,7 +12,9 @@ mongo.connect(url, function(err, db) {
   collection.remove({
     _id: process.argv[4]
   }, function (err) {
-    if(err) throw err;
+    if(err)
+        throw err;
+
     db.close();
   });
 });
