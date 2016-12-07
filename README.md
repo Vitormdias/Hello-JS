@@ -1,6 +1,7 @@
 # NodeSchool
 ##NodeSchool Solutions
 
+Javascripting :heavy_check_mark 
 
 LearnYouNode :heavy_check_mark:
 
