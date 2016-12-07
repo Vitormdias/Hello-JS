@@ -8,8 +8,6 @@ MakeMeHapi :heavy_check_mark:
 
 LearnYouMongo :heavy_check_mark:
 
-StreamAdventure :soon:
-
 PromiseItWontHurt :soon:
 
 AsynYou :soon:
