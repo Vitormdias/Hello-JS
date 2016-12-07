@@ -13,7 +13,7 @@ PromiseItWontHurt :soon:
 
 AsynYou :soon:
 
-CountTo6 :soon:
+CountTo6 :on:
 
 KickOffKoa :soon:
 
