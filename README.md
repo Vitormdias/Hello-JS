@@ -1,5 +1,5 @@
 # NodeSchool
-NodeSchool Solutions
+##NodeSchool Solutions
 
 
 LearnYouNode :heavy_check_mark:
@@ -7,8 +7,6 @@ LearnYouNode :heavy_check_mark:
 MakeMeHapi :heavy_check_mark:
 
 LearnYouMongo :heavy_check_mark:
-
-StreamAdventure :soon:
 
 PromiseItWontHurt :soon:
 
