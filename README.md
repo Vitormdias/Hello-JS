@@ -11,12 +11,16 @@ LearnYouMongo :heavy_check_mark:
 
 CountTo6 :heavy_check_mark:
 
-PromiseItWontHurt :on:
+RegexAdventure :on:
+
+PromiseItWontHurt :soon:
 
 AsynYou :soon:
 
 KickOffKoa :soon:
 
-TowerOfBabel :soon:
+WebAudioSchool :soon:
+
+ThinkingInReact :soon:
 
 LearnYouReact :soon:
