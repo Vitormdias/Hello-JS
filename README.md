@@ -11,7 +11,7 @@ LearnYouMongo :heavy_check_mark:
 
 CountTo6 :heavy_check_mark:
 
-RegexAdventure :on:
+RegexAdventure :heavy_check_mark:
 
 PromiseItWontHurt :soon:
 
