@@ -13,7 +13,7 @@ CountTo6 :heavy_check_mark:
 
 RegexAdventure :heavy_check_mark:
 
-PromiseItWontHurt :soon:
+PromiseItWontHurt :on:
 
 AsynYou :soon:
 
