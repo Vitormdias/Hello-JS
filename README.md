@@ -15,7 +15,9 @@ RegexAdventure :heavy_check_mark:
 
 PromiseItWontHurt :heavy_check_mark:
 
-AsynYou :soon:
+FunctionalJS :on:
+
+LearnGenerators :soon:
 
 KickOffKoa :soon:
 
