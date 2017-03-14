@@ -15,7 +15,7 @@ RegexAdventure :heavy_check_mark:
 
 PromiseItWontHurt :heavy_check_mark:
 
-FunctionalJS :on:
+FunctionalJS :heavy_check_mark:
 
 LearnGenerators :soon:
 
