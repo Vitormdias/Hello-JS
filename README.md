@@ -1,5 +1,18 @@
-# NodeSchool
-## NodeSchool Solutions
+# JS
+
+### Repository to study JS
+
+## Alura
+
+JS Avançado II :soon:
+
+JS Avançado III :soon:
+
+Webpack :soon:
+
+Electron :soon:
+
+## NodeSchool
 
 Javascripting :heavy_check_mark:
 
@@ -26,3 +39,10 @@ WebAudioSchool :soon:
 ThinkingInReact :soon:
 
 LearnYouReact :soon:
+
+## Javascript 30 
+
+Course :heavy_check_mark:
+
+
+
