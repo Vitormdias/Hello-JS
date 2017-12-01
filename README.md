@@ -4,7 +4,7 @@
 
 ## Alura
 
-JS Avançado II :soon:
+JS Avançado II :heavy_check_mark:
 
 JS Avançado III :soon:
 
