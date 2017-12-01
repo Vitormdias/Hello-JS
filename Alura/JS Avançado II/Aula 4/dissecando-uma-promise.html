@@ -1,0 +1,32 @@
+<!-- dissecando-uma-promise.html -->
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Dissecando uma promise</title>
+</head>
+
+<body>
+  <script>
+    let promise = new Promise((resolve, reject) => {
+      setTimeout(() => resolve('PROMISE RESOLVIDA'), 5000)
+    })
+
+    let promiseComErro = new Promise((resolve, reject) => {
+      console.log(resolve)
+      setTimeout(() => reject('PROMISE 2 COM ERRO'), 5000)
+    })
+
+    // imprime no console "PROMISE RESOLVIDA"
+    promise
+      .then(resultado => console.log(resultado))
+    console.log('FIM') // isso é imprimido após pq não é sincrono
+
+    promise2
+      .then(r => console.log(r))
+      .catch(err => console.log(err)) //exibe PROMISE 2 COM ERRO
+  </script>
+</body>
+
+</html>
